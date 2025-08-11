@@ -35,5 +35,6 @@ Thumbs.db
 *.db
 *.bak
 *.tmp
+# 
 .zencoder/
-
+desktop.ini
