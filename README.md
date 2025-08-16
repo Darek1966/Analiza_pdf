@@ -57,7 +57,7 @@ Analiza PDF to zaawansowane narzędzie webowe stworzone w Streamlit, które umo�
 
 ## Użycie
 
-1. Uruchom aplikację za pomocą komendy `streamlit run app.py`
+1. Uruchom aplikację za pomocą komendy`streamlit run app.py`
 2. Otwórz przeglądarkę internetową pod adresem wyświetlonym w terminalu (domyślnie http://localhost:8501)
 3. Wgraj jeden lub więcej plików PDF za pomocą przycisku "Wgraj jeden lub więcej plików PDF"
 4. Przełączaj się między zakładkami, aby przeglądać różne aspekty dokumentu:
@@ -85,16 +85,12 @@ Zachęcamy do współpracy nad projektem! Oto jak możesz się zaangażować:
 4. Wypchnij gałąź do swojego forka (`git push origin nowa-funkcja`)
 5. Otwórz Pull Request
 
-### Wytyczne dotyczące współpracy
+Wytyczne dotyczące współpracy
 
 * Utrzymuj spójny styl kodu
 * Dodawaj komentarze do nowych funkcji
 * Aktualizuj dokumentację, gdy wprowadzasz zmiany
 * Testuj swój kod przed wysłaniem Pull Request
-
-## Licencja
-
-Ten projekt jest udostępniany na licencji MIT. Szczegółowe informacje znajdują się w pliku [LICENSE](vscode-webview://1qd8v1tula0u43gou3ukfl0snpfh7dthaabr622qdvjsb150mmrk/LICENSE).
 
 ## Kontakt
 [![Email](https://img.shields.io/badge/Email-Napisz%20do%20mnie-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:netdark_1966@op.pl)
@@ -106,3 +102,4 @@ Ten projekt jest udostępniany na licencji MIT. Szczegółowe informacje znajduj
 
 Ten projekt jest licencjonowany na licencji MIT - zobacz plik [LICENSE](LICENSE).
 ---
+
