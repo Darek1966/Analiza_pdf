@@ -101,4 +101,8 @@ Ten projekt jest udostępniany na licencji MIT. Szczegółowe informacje znajduj
 
 [![GitHub](https://img.shields.io/badge/GitHub-Darek1966-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Darek1966)
 
+## Licencja
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+Ten projekt jest licencjonowany na licencji MIT - zobacz plik [LICENSE](LICENSE).
 ---
