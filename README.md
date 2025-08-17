@@ -103,4 +103,3 @@ Wytyczne dotyczące współpracy
 Ten projekt jest licencjonowany na licencji MIT - zobacz plik [LICENSE](LICENSE).
 
 ---
-
