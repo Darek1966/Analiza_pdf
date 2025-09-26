@@ -1,0 +1,9 @@
+[server]
+# Bezpieczniejsze ustawienia serwera Streamlit dla lokalnego użycia.
+# Włączamy ochronę XSRF i pozostawiamy domyślne CORS (lub true),
+# aby uniknąć problemów bezpieczeństwa przy ekspozycji aplikacji.
+enableCORS = true
+enableXsrfProtection = true
+headless = true
+address = "127.0.0.1"
+port = 54321
